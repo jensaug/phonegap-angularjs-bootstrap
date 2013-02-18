@@ -3,5 +3,5 @@
 /* Controllers */
 
 function AppCtrl($scope) {
-    $scope.name = "John Smith";
+    $scope.name = "Jens Augustsson";
 }
